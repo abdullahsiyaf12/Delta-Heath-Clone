@@ -1,0 +1,527 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.head-container {
+    height: 120px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nav-logo {
+    background-image: url("Delta-logo.png");
+    background-size: cover;
+    height: 75px;
+    width: 274px;
+}
+
+.nav-links {
+    width: 850px;
+}
+
+.nav-links ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-links ul a {
+    text-decoration: none;
+    color: #f4d062;
+    font-weight: 700;
+    padding-left: 30px;
+}
+
+
+
+.hero-img {
+    background-image: url("slider-image.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+}
+
+.hero-text {
+    width: 40%;
+    margin-left: 40px;
+    color: white;
+}
+
+.hero-text h3 {
+    font-size: 4rem;
+    font-weight: 600;
+    color: white;
+}
+
+.hero-button {
+    margin-top: 18px;
+    width: 100px;
+    height: 37px;
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-style: none;
+    background-color: #ed6141;
+    color: white;
+}
+
+.bet-slider {
+    height: 166px;
+    display: inline-block;
+    width: 77%;
+    background-color: black;
+    position: relative;
+    bottom: 90px;
+    left: 12%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.heart-icon {
+    height: 100px;
+    width: 100px;
+    color: #fac506;
+}
+
+.heart-icon span {
+    font-size: 80px;
+}
+
+
+.slider-2 {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-2 {
+    background-image: url(images-30.jpeg);
+    background-size: cover;
+    height: 272px;
+    width: 480px;
+}
+
+.slider-2-content {
+    width: 50%;
+    margin-left: 10px;
+}
+
+.slider-2-content h3 {
+    font-size: 3rem;
+
+}
+
+.p-line-1 {
+    padding-bottom: 10px;
+}
+
+.p-line-2 {
+    padding-top: 10px;
+    font-size: 1.5rem;
+}
+
+.button2 {
+    margin-top: 10px;
+}
+
+.b-2 {
+    height: 31px;
+    width: 93px;
+    background-color: #ed6141;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-style: none;
+    color: white;
+}
+
+.content-box {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+}
+
+.left-content {
+    align-items: center;
+    height: 300px;
+    width: 381px;
+    margin-left: 20px;
+}
+
+.con-1 {
+    margin: 10px 0;
+    color: #ed6141;
+}
+
+.left-content h3 {
+    font-size: 2rem;
+}
+
+.con-2 {
+    margin-top: 10px;
+    font-size: 1.4rem;
+}
+
+.left-cont-button {
+    margin-top: 10px;
+}
+
+.left-b {
+    height: 31px;
+    width: 93px;
+    background-color: #ed6141;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-style: none;
+    color: white;
+}
+
+.right-content {
+    height: 500px;
+    width: 23%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+.right-box-left {
+    width: 40%;
+}
+
+.box1 {
+    background-color: #000000;
+    height: 240px;
+    width: 284px;
+    border-radius: 20px;
+}
+
+.box1 span {
+    color: white;
+    font-size: 62px;
+    margin-top: 5px;
+}
+
+.box1 h3 {
+    font-size: 2rem;
+    text-align: center;
+    color: #f4d062;
+}
+
+.box1 p {
+    margin-top: 5px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.right-content-right {
+    height: 500px;
+    width: 23%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.right-box-right {
+    width: 40%;
+}
+
+.box2 {
+    background-color: #000000;
+    height: 240px;
+    width: 284px;
+    border-radius: 20px;
+}
+
+.box2 span {
+    color: white;
+    font-size: 62px;
+    margin-top: 5px;
+}
+
+.box2 h3 {
+    font-size: 2rem;
+    text-align: center;
+    color: #f4d062;
+}
+
+.box2 p {
+    margin-top: 5px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.member-list {
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+.icon-list {
+    height: 120px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+
+.icon-list span {
+    font-size: 90px;
+}
+
+.mem-list-h {
+    font-size: 2rem;
+}
+
+.phar-icon,
+.pill-icon,
+.hrt-icon,
+.health-icon p {
+    font-weight: 600;
+}
+
+/** Satisfied Patients **/
+
+.stfi-container {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.stfi-content {
+    height: 309px;
+    width: 442px;
+}
+
+.stfi-line1 {
+    font-size: 0.9rem;
+    color: #ed6141;
+}
+
+.stfi-content h3 {
+    font-size: 2rem;
+    margin: 10px 0;
+}
+
+.stfi-line2 {
+    font-size: 1.5rem;
+}
+
+.stfi-img {
+    width: 650px;
+    height: 400px;
+    background-size: cover;
+    background-image: url("stfi-image.jpg");
+}
+
+
+/** sticky-container **/
+
+.sticky-container {
+    height: 500px;
+    width: 100%;
+    color: white;
+}
+
+.stik-img {
+    background-image: url("stik-image.jpg");
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+.stik-img h3 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.stik-img h3 {
+    display: block;
+    font-size: 3rem;
+}
+
+.stik-img P{
+    margin: 30px 30px;
+    font-size: 1.4rem;
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+.den-3 {
+    margin-left: 9px;
+}
+
+.vac-4 {
+    margin-left: 11px;
+}
+
+.form-container {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.infor h3 p  {
+
+}
+
+.for-info {
+    display: block
+}
+
+.infor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.infor h3 {
+    font-size: 2rem;
+}
+
+.infor p {
+  font-size: 1rem;
+}
+
+.info {
+    width: 500px;
+    height: 70px;
+    margin-top: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 10px;
+    border: 1.4px solid rgb(221, 221, 221);
+}
+
+.b-b {
+    background-color: #ed6141;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 40px;
+    width: 90px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+}
+
+/** footer **/
+
+.foot-container {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.f-logo {
+    background-image: url("Delta-logo.png");
+    background-size: cover;
+    height: 81px;
+    width: 300px;
+    margin-left: 5px;
+}
+
+.foot-content1 {
+    margin-top: 30px;
+    height: 300px;
+    width: 300px;
+}
+
+.foot-content1 h3{
+    font-weight: 700;
+    font-size: 2rem;
+    margin-left: 5px;
+    color: #f4d062;
+}
+
+.foot-content1 p {
+    margin-top: 10px;
+    padding-top: 10px;
+    font-weight: 700;
+    color: white;
+    padding-left: 10px;
+}
+
+.foot-content2 {
+    margin-top: 30px;
+    height: 300px;
+    width: 300px;
+}
+
+.foot-content2 h3{
+    font-weight: 700;
+    font-size: 2rem;
+    margin-left: 30px;
+    color: #f4d062;
+}
+
+.foot-content2 p {
+    margin-top: 10px;
+    padding-top: 5px;
+    font-weight: 700;
+    color: white;
+    margin-left: 10px;
+    margin-left:30px ;
+}
+
+
+.copyri {
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1rem;
+    border-top: 2px dotted white;
+}
+
+.nav-links span {
+    color: white;
+}
+
+
+
+
+
+
+       

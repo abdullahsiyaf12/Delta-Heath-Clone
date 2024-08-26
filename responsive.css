@@ -1,0 +1,1643 @@
+
+
+@media (max-width:1163px) {
+    .nav-logo {
+        height: 66px;
+        width: 242px;
+    }
+
+    .nav-links {
+        width: 657px;
+    }
+
+    .head-container {
+        height: 97px;
+    }
+
+    .hero-text h3 {
+        font-size: 3rem;
+    }
+
+    .hero-text p {
+        font-size: 0.85rem;
+    }
+
+    .bet-slider {
+        height: 144px;
+        bottom: 79px;
+        left: 115px;
+        border-top-left-radius: 45px;
+        border-top-right-radius: 45px;
+        border-bottom-right-radius: 45px;
+    }
+
+    .box1,
+    .box2 {
+        height: 191px;
+        width: 234px;
+    }
+
+    .stfi-img {
+        width: 464px;
+        height: 319px;
+    }
+
+
+    .box1 h3,
+    .box2 h3 {
+        font-size: 1.3rem;
+    }
+
+    .box1 p,
+    .box2 p {
+        margin-top: 4.5px;
+        font-size: 17px;
+    }
+
+    .box1 span,
+    .box2 span {
+        font-size: 48px;
+    }
+
+    .img-2 {
+        height: 229px;
+        width: 411px;
+    }
+
+    .slider-2-content h3 {
+        font-size: 2.5rem;
+    }
+
+    .p-line-2 {
+        padding-top: 4px;
+        font-size: 1.4rem;
+    }
+
+    .stik-img h3 {
+        font-size: 2.5rem;
+    }
+
+    .stik-img P {
+        margin: 23px 43px;
+        font-size: 1.2rem;
+    }
+
+    .f-logo {
+        height: 65px;
+        width: 238px;
+    }
+
+    .foot-content2 h3 {
+        font-weight: 600;
+        font-size: 1.5rem;
+        margin-left: 27px;
+    }
+}
+
+/** media from 318px */
+
+@media (max-width:918px) {
+    .nav-logo {
+        height: 64px;
+        width: 238px;
+    }
+
+    .nav-links {
+        width: 552px;
+    }
+
+    .box1,
+    .box2 {
+        height: 200px;
+        width: 196px;
+    }
+
+    .heart-icon span {
+        font-size: 66px;
+    }
+
+    .heart-icon p {
+        font-size: 0.95rem;
+    }
+
+    .img-2 {
+        height: 204px;
+        width: 367px;
+    }
+
+    .stfi-img {
+        width: 416px;
+        height: 276px;
+    }
+
+    .img-2 {
+        height: 183px;
+        width: 332px;
+    }
+
+    .slider-2-content {
+        width: 45%;
+    }
+
+    .bet-slider {
+        left: 87px;
+    }
+
+    .p-line-2 {
+        font-size: 1.1rem;
+    }
+
+    .stfi-content {
+        height: 309px;
+        width: 358px;
+    }
+
+    .stfi-content h3 {
+        font-size: 1.8rem;
+    }
+
+    .stfi-img {
+        width: 416px;
+        height: 279px;
+    }
+
+    .stfi-line2 {
+        font-size: 1.6rem;
+    }
+
+    .slider-2-content h3 {
+        font-size: 2rem;
+    }
+
+    .p-line-1 {
+        padding-bottom: 4px;
+    }
+
+    .foot-content2 p {
+        font-size: 0.85rem;
+        margin-left: 23px;
+    }
+
+    .foot-content2 h3 {
+        font-size: 1.2rem;
+        margin-left: 23px;
+    }
+}
+
+/** media from 830px **/
+
+@media (max-width:830px) {
+    .nav-logo {
+        height: 55px;
+        width: 201px;
+    }
+
+    .nav-links ul a {
+        font-weight: 600;
+        padding-left: 16px;
+    }
+
+    .nav-links {
+        width: 489px;
+    }
+
+    .hero-img {
+        height: 443px;
+    }
+
+    .hero-text h3 {
+        font-size: 2.4rem;
+    }
+
+    .slider-2 {
+        height: 440px;
+    }
+
+    .box1,
+    .box2 {
+        height: 163px;
+        width: 160px;
+    }
+
+    .box1 h3,
+    .box2 h3 {
+        font-size: 1.2rem;
+    }
+
+    .box1 p,
+    .box2 p {
+        margin-top: 4.5px;
+        font-size: 10px;
+    }
+
+    .box1 span,
+    .box2 span {
+        font-size: 36px;
+    }
+
+    .left-content h3 {
+        font-size: 1.8rem;
+    }
+
+    .con-2 {
+        margin-top: 10px;
+        font-size: 1.3rem;
+    }
+
+    .vac-4 {
+        margin-left: 9px;
+    }
+
+    .den-3 {
+        margin-left: 6px;
+    }
+
+    .emer-2 {
+        margin-left: -11px;
+    }
+
+    .heart-1 {
+        margin-left: -3px;
+    }
+
+    .box1 {
+        border-radius: 11px;
+    }
+
+    .member-list {
+        height: 161px;
+    }
+
+    .mem-list-h {
+        font-size: 2rem;
+    }
+
+    .p-line-2 {
+        font-size: 1rem;
+    }
+
+    .slider-2-content h3 {
+        font-size: 1.6rem;
+    }
+
+    .icon-list span {
+        font-size: 70px;
+    }
+
+    .phar-icon p,
+    .pill-icon p,
+    .hrt-icon p,
+    .health-icon p {
+        font-size: 0.86rem;
+    }
+
+    .stfi-img {
+        width: 323px;
+        height: 218px;
+    }
+
+    .stfi-content h3 {
+        font-size: 1.6rem;
+    }
+
+    .stfi-content {
+        height: 243px;
+        width: 380px;
+    }
+
+    .f-logo {
+        height: 52px;
+        width: 191px;
+    }
+
+    .slider-2 {
+        height: 244px;
+    }
+
+    .foot-content1 {
+        margin-top: 25px;
+        height: 289px;
+        width: 381px;
+    }
+
+    .foot-content2 {
+        margin-top: 30px;
+        height: 300px;
+        width: 250px;
+    }
+
+    .stik-img h3 {
+        font-size: 2.1rem;
+    }
+
+    .stik-img P {
+        margin: 16px 43px;
+        font-size: 1rem;
+    }
+
+    .stik-img {
+        height: 328px;
+    }
+
+    .sticky-container {
+        height: 318px;
+    }
+
+    .foot-content2 p,
+    .foot-content2 h3 {
+        margin-left: 0px;
+    }
+}
+
+
+/** media from 740px **/
+@media (max-width:740px) {
+    .nav-logo {
+        height: 33px;
+        width: 121px;
+    }
+
+    .head-container {
+        height: 64px;
+    }
+
+    .nav-links {
+        width: 449px;
+
+    }
+
+    .nav-links ul a {
+        padding-left: 15px;
+        font-size: 0.80rem;
+    }
+
+    .hero-img {
+        height: 398px;
+    }
+
+    .hero-text h3 {
+        font-size: 2rem;
+    }
+
+    .hero-text p {
+        font-size: 0.70rem;
+    }
+
+    .bet-slider {
+        left: 75px;
+    }
+
+    .bet-slider {
+        height: 125px;
+        bottom: 79px;
+        border-top-left-radius: 35px;
+        border-top-right-radius: 35px;
+        border-bottom-right-radius: 35px;
+    }
+
+    .heart-icon {
+        height: 95px;
+        width: 53px;
+    }
+
+    .heart-icon span {
+        font-size: 55px;
+    }
+
+    .heart-icon p {
+        font-size: 0.74rem;
+    }
+
+    .emer-2 {
+        margin-left: -6px;
+    }
+
+    .img-2 {
+        height: 147px;
+        width: 264px;
+    }
+
+    .slider-2-content h3 {
+        font-size: 1.4rem;
+    }
+
+    .p-line-2 {
+        font-size: 0.75rem;
+    }
+
+    .left-content h3 {
+        font-size: 1.3rem;
+    }
+
+    .heart-icon {
+        height: 71px;
+    }
+
+    .con-2 {
+        margin-top: 10px;
+        font-size: 1rem;
+    }
+
+    .box1,
+    .box2 {
+        height: 122px;
+        width: 117px;
+    }
+
+    .con-2 {
+        margin-top: 10px;
+        font-size: 0.85rem;
+    }
+
+    .box1 h3,
+    .box2 h3 {
+        font-size: 1rem;
+    }
+
+    .right-content {
+        height: 310px;
+        width: 23%;
+    }
+
+    .box1 p,
+    .box2 p {
+        margin-top: 4px;
+        font-size: 8px;
+    }
+
+    .box1 span,
+    .box2 span {
+        font-size: 25px;
+    }
+
+    .box2 {
+        border-radius: 7px;
+    }
+
+    .right-content-right {
+        height: 310px;
+    }
+
+    .left-content {
+        height: 134px;
+    }
+
+    .content-box {
+        height: 440px;
+    }
+
+    .con-1 {
+        margin: 2px 0;
+    }
+
+    .member-list {
+        height: 128px;
+    }
+
+    .mem-list-h {
+        font-size: 1.5rem;
+    }
+
+    .icon-list span {
+        font-size: 47px;
+    }
+
+    .phar-icon p,
+    .pill-icon p,
+    .hrt-icon p,
+    .health-icon p {
+        font-size: 0.56rem;
+    }
+
+    .hrt-icon p {
+        margin-left: -5px;
+    }
+
+    .health-icon p {
+        font-size: 0.56rem;
+        margin-left: -6px;
+    }
+
+    .pill-icon p {
+        font-size: 0.56rem;
+        margin-left: -3px;
+    }
+
+    .stfi-line2 {
+        font-size: 0.9rem;
+    }
+
+    .stfi-content {
+        height: 163px;
+        width: 339px;
+    }
+
+    .stfi-img {
+        width: 252px;
+        height: 158px;
+    }
+
+    .stfi-content {
+        height: 163px;
+        width: 293px;
+    }
+
+    .stfi-container {
+        height: 500px;
+    }
+
+    .stik-img h3 {
+        font-size: 1.8rem;
+    }
+
+    .stik-img P {
+        margin: 1px 36px;
+        font-size: 0.8rem;
+    }
+
+    .stik-img {
+        height: 270px;
+    }
+
+    .sticky-container {
+        height: 270px;
+    }
+
+    .infor h3 {
+        font-size: 1.8rem;
+    }
+
+    .infor p {
+        font-size: 0.8rem;
+    }
+
+    .info {
+        width: 463px;
+        height: 70px;
+        margin-top: 9px;
+    }
+
+    .f-logo {
+        height: 70px;
+        width: 254px;
+    }
+
+    .b-b {
+        right: 193px;
+    }
+
+    .foot-container {
+        height: 713px;
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: column;
+    }
+
+    .foot-content2 p,
+    .foot-content2 h3 {
+        margin-left: 12px;
+    }
+
+    .foot-content1 p {
+        margin: 0;
+    }
+
+    .copyri p {
+        font-size: 11px;
+        height: 40px;
+    }
+
+}
+
+/** meid afrom 594px **/
+@media (max-width:594px) {
+    .nav-links ul a {
+        padding-left: 12px;
+        font-size: 0.70rem;
+    }
+
+    .nav-links {
+        width: 361px;
+    }
+
+    .nav-logo {
+        height: 25px;
+        width: 92px;
+    }
+
+    .hero-img {
+        height: 353px;
+    }
+
+    .heart-icon span {
+        font-size: 47px;
+    }
+
+    .heart-icon p {
+        font-size: 0.74rem;
+    }
+
+    .den-3 {
+        margin-left: 2px;
+    }
+
+    .emer-2 {
+        margin-left: -9px;
+    }
+
+    .heart-1 {
+        margin-left: -4px;
+    }
+
+    .bet-slider {
+        height: 100px;
+        bottom: 52px;
+        left: 59px;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+        border-bottom-right-radius: 25px;
+    }
+
+    .hero-text h3 {
+        font-size: 1.8rem;
+    }
+
+    .hero-text p {
+        font-size: 0.60rem;
+    }
+
+    .hero-button {
+        margin-top: 8px;
+        width: 84px;
+        height: 32px;
+        text-align: center;
+        border-top-left-radius: 22px;
+        border-top-right-radius: 22px;
+        border-bottom-right-radius: 22px;
+    }
+
+    .img-2 {
+        height: 134px;
+        width: 234px;
+    }
+
+    .slider-2-content h3 {
+        font-size: 1.2rem;
+    }
+
+    .p-line-2 {
+        font-size: 0.65rem;
+    }
+
+    .b-2 {
+        height: 29px;
+        width: 85px;
+        background-color: #ed6141;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+
+    .left-content h3 {
+        font-size: 1.2rem;
+    }
+
+    .con-2 {
+        margin-top: 10px;
+        font-size: 0.68rem;
+    }
+
+    .left-content {
+        width: 198px;
+    }
+
+    .stfi-content h3 {
+        font-size: 1.2rem;
+    }
+
+    .stfi-line2 {
+        font-size: 0.68rem;
+    }
+
+    .stfi-content {
+        height: 163px;
+        width: 221px;
+    }
+
+    .stfi-img {
+        width: 227px;
+        height: 157px;
+    }
+
+    .stfi-container {
+        height: 381px;
+    }
+
+    .stik-img h3 {
+        font-size: 1.4rem;
+    }
+
+    .stik-img P {
+        margin: 1px 36px;
+        font-size: 0.65rem;
+    }
+
+    .infor h3 {
+        font-size: 1.4rem;
+    }
+
+    .infor p {
+        font-size: 0.65rem;
+    }
+
+    .info {
+        width: 352px;
+        height: 47px;
+        margin-top: 7px;
+    }
+
+    .b-b {
+        right: 139px;
+    }
+
+}
+
+
+@media (min-width:490px) {
+    ul li a:hover {
+        color: #ed6141;
+        cursor: pointer;
+    }
+    
+    .hero-button:hover, .b-2:hover, .left-b:hover, .b-b:hover  {
+        background-color: #f4d062;
+        color: white;
+        animation: hoverUp 0.5s forwards;
+    }
+    
+    .img-2, .stfi-img:hover {
+        animation: hoverUp 0.5s forwards;
+    }
+    
+    .bet-slider span:hover {
+        animation: hoverUp 0.5s forwards;
+        cursor: default;
+    }
+    
+    .icon-list span:hover {
+        animation: hoverUp 0.5s forwards;
+    cursor: defaults;
+    }
+    
+    
+    @keyframes hoverUp {
+        0% {
+            transform: translateY(0);
+        }
+        100% {
+            transform: translateY(-10px);
+        }
+    }
+}
+
+/** media from 490px **/
+
+@media (max-width:490px) {
+
+    .bet-slider {
+        display: flex;
+        height: 900px;
+        left: 58px;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .heart-icon span {
+        font-size: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .heart-icon p {
+        font-size: 1rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .slider-2 {
+        height: 430px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .img-2 {
+        height: 183px;
+        width: 326px;
+    }
+
+    .slider-2-content {
+        width: 71%;
+    }
+
+    .p-line-2 {
+        font-size: 0.9rem;
+    }
+
+    .slider-2-content h3 {
+        font-size: 1.6rem;
+    }
+
+    .content-box {
+        height: 1150px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .hero-text h3 {
+        font-size: 1.2rem;
+    }
+
+    .left-content {
+        width: 352px;
+    }
+
+    .con-2 {
+        margin-top: 10px;
+        font-size: 0.9rem;
+    }
+
+    .box1,
+    .box2 {
+        height: 190px;
+        width: 249%;
+        margin-top: 10px;
+    }
+
+    .left-content h3 {
+        font-size: 1.6rem;
+    }
+
+    .right-content,
+    .right-content-right {
+        width: 94%;
+    }
+
+    .box1 h3,
+    .box2 h3 {
+        font-size: 1.5rem;
+        text-align: start;
+        padding-left: 5px;
+    }
+
+    .box1 p,
+    .box2 p {
+        margin-top: 4px;
+        font-size: 22px;
+        text-align: start;
+        padding-left: 5px;
+    }
+
+    .heart-icon p {
+        font-size: 0.7rem;
+    }
+
+    .box1 span,
+    .box2 span {
+        font-size: 63px;
+    }
+
+    .member-list,
+    .icon-list {
+        height: 600px;
+    }
+
+    .member-list,
+    .icon-list {
+        height: 700px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .mem-list-h {
+        font-size: 2rem;
+    }
+
+    .icon-list span {
+        font-size: 100px;
+    }
+
+    .phar-icon p,
+    .pill-icon p,
+    .hrt-icon p,
+    .health-icon p {
+        font-size: 0.96rem;
+    }
+
+    .stfi-container {
+        height: 500px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .stfi-content {
+        height: 163px;
+        width: 352px;
+    }
+
+    .stfi-line2 {
+        font-size: 0.9rem;
+    }
+
+    .stfi-content h3 {
+        font-size: 1.6rem;
+    }
+
+    .stfi-img {
+        width: 343px;
+        height: 225px;
+    }
+
+    .infor h3 {
+        font-size: 1.3rem;
+    }
+
+    .form-container {
+        height: 450px;
+    }
+
+    .infor p {
+        font-size: 0.55rem;
+    }
+
+    .info {
+        width: 257px;
+        height: 31px;
+        margin-top: 6px;
+    }
+
+    .b-b {
+        right: 0;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+
+    .f-logo p {
+        width: 231px;
+        font-size: 11px;
+        font-weight: 600;
+    }
+
+}
+
+/** media from 463 **/
+@media (min-width:463px) {
+    .nav-links span {
+        display: none;
+    }
+}
+
+@media (max-width:463px) {
+    ul li {
+        display: none;
+    }
+
+    .nav-links span {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-right: 10px;
+    }
+
+    .nav-logo {
+        height: 15px;
+        width: 80px;
+        margin-left: 17px;
+    }
+
+    .hero-img {
+        height: 271px;
+    }
+
+    .hero-text h3 {
+        font-size: 1.1rem;
+    }
+
+    .hero-text p {
+        font-size: 0.50rem;
+    }
+
+    .bet-slider {
+        left: 46px;
+    }
+
+    .img-2 {
+        height: 171px;
+        width: 309px;
+    }
+
+    .slider-2-content h3 {
+        font-size: 1.2rem;
+    }
+
+    .left-content h3 {
+        font-size: 1.3rem;
+    }
+
+    .box1 span,
+    .box2 span {
+        font-size: 49px;
+        margin: 5px;
+    }
+
+    .box1 h3,
+    .box2 h3 {
+        font-size: 1.2rem;
+    }
+
+    .box1 p,
+    .box2 p {
+        font-size: 16px;
+    }
+
+    .box1,
+    .box2 {
+        height: 151px;
+    }
+
+    .content-box {
+        height: 850px;
+    }
+
+    .stfi-content h3 {
+        font-size: 1.3rem;
+    }
+
+    .stfi-img {
+        width: 324px;
+        height: 213px;
+    }
+
+    .stik-img h3 {
+        font-size: 1.2rem;
+    }
+
+    .stik-img {
+        height: 201px;
+    }
+
+    .form-container {
+        height: 261px;
+    }
+
+    .f-logo p {
+        font-size: 11px;
+        width: 65%;
+
+    }
+
+    .heart-icon p {
+        font-size: 0.7rem;
+    }
+
+}
+
+/**medi afrom 382px **/
+
+@media (max-width:382px) {
+
+    .hero-img {
+        height: 210px;
+    }
+
+    .hero-button {
+        font-size: 10px;
+    }
+
+    .hero-text h3 {
+        font-size: 1rem;
+    }
+
+    .bet-slider {
+        bottom: 21px;
+    }
+
+    .hero-button {
+        margin-top: 7px;
+        width: 70px;
+        height: 25px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        border-bottom-right-radius: 12px;
+    }
+
+    .hero-text {
+        margin-left: 19px;
+    }
+
+
+    .bet-slider {
+        left: 36px;
+    }
+
+
+    .hero-text p {
+        font-size: 0.4rem;
+    }
+
+    .left-content {
+        width: 284px;
+    }
+
+    .img-2 {
+        height: 150px;
+        width: 275px;
+    }
+
+    .stfi-img {
+        width: 273px;
+        height: 184px;
+    }
+
+    .stfi-content {
+        width: 284px;
+    }
+
+
+    .foot-content1 {
+        margin-top: 25px;
+        height: 289px;
+        width: 251px;
+    }
+
+    .foot-container {
+        height: 850px;
+    }
+
+    .copyri p {
+        font-size: 8px;
+        display: flex;
+        height: 40px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .copyri {
+        height: 37px;
+    }
+}
+
+/**  media from 310px **/
+
+@media (max-width:310px) {
+    .heart-icon span {
+        font-size: 88px;
+    }
+
+    .emer-2 {
+        margin-left: 1px;
+    }
+
+    .nav-logo {
+        height: 16px;
+        width: 112px;
+    }
+
+    .bet-slider {
+        height: 650px;
+    }
+
+    .img-2 {
+        height: 129px;
+        width: 238px;
+    }
+
+    .slider-2-content {
+        width: 79%;
+    }
+
+    .hero-text h3 {
+        font-size: 0.8rem;
+    }
+
+    .hero-text p {
+        font-size: 0.3rem;
+    }
+
+    .hero-button {
+        margin-top: 7px;
+        width: 59px;
+        height: 20px;
+        font-size: 7px;
+        border-top-left-radius: 9px;
+        border-top-right-radius: 9px;
+        border-bottom-right-radius: 9px;
+    }
+
+    .hero-img {
+        height: 179px;
+    }
+
+    .left-content {
+        width: 86%;
+        height: 177px;
+    }
+
+    .content-box {
+        height: 921px;
+    }
+
+    .box1 h3,
+    .box2 h3 {
+        font-size: 1rem;
+    }
+
+    .box1 p,
+    .box2 p {
+        font-size: 10px;
+    }
+
+    .box1 span,
+    .box2 span {
+        font-size: 35px;
+    }
+
+    .box1,
+    .box2 {
+        height: 123px;
+    }
+
+    .content-box {
+        height: 793px;
+    }
+
+    .icon-list span {
+        font-size: 77px;
+    }
+
+    .phar-icon p,
+    .pill-icon p,
+    .hrt-icon p,
+    .health-icon p {
+        font-size: 0.76rem;
+    }
+
+    .pill-icon p {
+        margin-left: 3px;
+    }
+
+    .phar-icon p {
+        margin-left: 4px;
+    }
+
+    .stfi-content {
+        width: 78%;
+        height: 170px;
+    }
+
+    .stfi-line2 {
+        font-size: 0.7rem;
+    }
+
+    .stfi-content h3 {
+        font-size: 1rem;
+    }
+
+    .stfi-img {
+        width: 230px;
+        height: 157px;
+    }
+
+    .stik-img h3 {
+        font-size: 1rem;
+        padding-top: 8px;
+    }
+
+    .stik-img {
+        height: 176px;
+    }
+
+    .stik-img P {
+        margin: 0px 9px;
+        font-size: 0.45rem;
+        padding-top: 9px;
+        font-weight: 500;
+    }
+
+    .infor h3 {
+        font-size: 1rem;
+    }
+
+    .infor p {
+        font-size: 0.38rem;
+    }
+
+    .info {
+        width: 188px;
+        height: 25px;
+        margin-top: 5px;
+        font-size: 9px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+
+    }
+
+    .b-b {
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        height: 33px;
+        width: 81px;
+        font-size: 11px;
+    }
+
+    .f-logo {
+        height: 40px;
+        width: 146px;
+    }
+
+    .foot-content1 p {
+        font-size: 12px;
+    }
+
+    .foot-content2 {
+        margin-top: -121px;
+    }
+
+    .copyri p {
+        font-size: 7px;
+        height: 28px;
+    }
+
+    .head-container {
+        height: 37px;
+    }
+
+}
+
+/** media from 250px **/
+
+@media (max-width:251px) {
+    .nav-logo {
+        height: 15px;
+        width: 103px;
+    }
+
+    .hero-text h3 {
+        font-size: 0.7rem;
+    }
+
+    .hero-img {
+        height: 163px;
+    }
+
+    .img-2 {
+        height: 96px;
+        width: 176px;
+    }
+
+    .p-line-2 {
+        font-size: 0.7rem;
+    }
+
+    .slider-2-content h3 {
+        font-size: 1rem;
+    }
+
+    .con-2 {
+        font-size: 0.7rem;
+    }
+
+
+    .left-content h3 {
+        font-size: 1rem;
+    }
+
+    .box1 p,
+    .box2 p {
+        font-size: 9px;
+    }
+
+    .stfi-img {
+        width: 196px;
+        height: 124px;
+    }
+
+    .stik-img h3 {
+        font-size: 0.7rem;
+        padding-top: 8px;
+    }
+
+    .stik-img P {
+        margin: 0px 8px;
+        font-size: 0.35rem;
+        padding-top: 10px;
+    }
+
+    .info {
+        width: 161px;
+        height: 22px;
+    }
+
+    .infor h3 {
+        font-size: 0.7rem;
+    }
+
+    .infor p {
+        font-size: 0.32rem;
+    }
+
+    .bet-slider {
+        left: 24px;
+        bottom: 15px;
+    }
+
+    .foot-content2 {
+        margin-top: 25px;
+        width: 119px;
+    }
+
+    .foot-content1 {
+        margin-top: 25px;
+        height: 300px;
+        width: 166px;
+    }
+
+    .foot-content1 p {
+        font-size: 9px;
+    }
+
+    .copyri p {
+        font-size: 5px;
+        height: 23px;
+    }
+
+    .foot-content2 h3 {
+        font-size: 0.8rem;
+    }
+
+    .foot-content2 p {
+        margin-top: 5px;
+    }
+
+    .foot-content2 p {
+        font-size: 0.65rem;
+    }
+
+    .foot-content2 {
+        height: 131px;
+    }
+
+    .foot-content1 {
+        height: 166px;
+    }
+
+    .foot-container {
+        height: 653px;
+    }
+}
+
+/** media from 201px **/
+
+@media (max-width:201px) {
+    .p-line-2 {
+        font-size: 0.5rem;
+    }
+
+    .slider-2-content h3 {
+        font-size: 0.8rem;
+    }
+
+    .p-line-1 {
+        font-size: 11px;
+    }
+
+    .con-2 {
+        font-size: 0.5rem;
+    }
+
+    .left-content h3 {
+        font-size: 0.8rem;
+    }
+
+    .con-1 {
+        font-size: 11px;
+    }
+
+    .box1 h3,
+    .box2 h3 {
+        font-size: 0.7rem;
+    }
+
+    .box1 p,
+    .box2 p {
+        font-size: 8px;
+    }
+
+    .box1 span,
+    .box2 span {
+        font-size: 29px;
+    }
+
+    .box1, .box2 {
+        height: 93px;
+    }
+
+    .right-content-right {
+        height: 208px;
+    }
+
+    .right-content {
+        height: 208px;
+    }
+
+    .content-box {
+        height: 667px;
+    }
+
+    .mem-list-h p {
+        font-size: 1rem;
+    }
+
+    .img-2 {
+        height: 77px;
+        width: 141px;
+    }
+
+    .stfi-img {
+        width: 146px;
+        height: 102px;
+    }
+
+    .stfi-line2 {
+        font-size: 0.5rem;
+    }
+
+    .stfi-content h3 {
+        font-size: 0.7rem;
+    }
+
+    .info {
+        width: 128px;
+        height: 18px;
+        font-size: 8px;
+    }
+
+    .f-logo {
+        height: 31px;
+        width: 115px;
+    }
+
+    .infor h3 {
+        font-size: 0.6rem;
+    }
+
+    .stik-img {
+        height: 104px;
+    }
+
+    .stik-img h3 {
+        font-size: 0.5rem;
+        padding-top: 5px;
+    }
+
+    .stik-img P {
+        margin: 0px 8px;
+        font-size: 0.25rem;
+        padding-top: 7px;
+    }
+
+    .sticky-container {
+        height: 117px;
+    }
+
+    .foot-content1 {
+        height: 185px;
+        width: 129px;
+    }
+
+    .infor p {
+        font-size: 0.27rem;
+    }
+
+    .copyri p {
+        font-size: 3px;
+    }
+
+    .copyri {
+        height: 24px;
+    }
+    
+}
